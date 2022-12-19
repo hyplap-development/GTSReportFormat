@@ -65,3 +65,20 @@ var options = {
   chart6.render();
   var chart7 = new ApexCharts(document.querySelector("#chart7"), options);
   chart7.render();
+  var chart8 = new ApexCharts(document.querySelector("#chart8"), options);
+  chart8.render();
+  var chart9 = new ApexCharts(document.querySelector("#chart9"), options);
+  chart9.render();
+  var chart10 = new ApexCharts(document.querySelector("#chart10"), options);
+  chart10.render();
+  var chart11 = new ApexCharts(document.querySelector("#chart11"), options);
+  chart11.render();
+  var chart12 = new ApexCharts(document.querySelector("#chart12"), options);
+  chart12.render();
+  var chart13 = new ApexCharts(document.querySelector("#chart13"), options);
+  chart13.render();
+  var chart14 = new ApexCharts(document.querySelector("#chart14"), options);
+  chart14.render();
+  var chart15 = new ApexCharts(document.querySelector("#chart15"), options);
+  chart15.render();
+
